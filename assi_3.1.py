@@ -1,3 +1,4 @@
+#we are assuming that the user enters correct data
 hrs = input("Enter Hours:")
 rate = input("Enter the rate per hour:")
 hrs = float(hrs)
