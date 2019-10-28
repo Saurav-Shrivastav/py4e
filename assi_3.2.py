@@ -1,11 +1,11 @@
 #the user may input bad data and now we have to prevent the program from blowing up
 hrs = input("Enter Hours:")
-rate = input("Enter the rate per hour:")
 try :
     hrs = float(hrs)
 except :
     print("Please enter numeric data")
     quit()
+rate = input("Enter the rate per hour:")
 try:
     rate = float(rate)
 except :
