@@ -3,7 +3,7 @@ def computepay(h,r):
         p = 40*r + (h-40)*1.5*r
         return p
     else :
-        p = h*r
+        p = h*r 
         return p
 
 hrs = input("Enter Hours: ")
