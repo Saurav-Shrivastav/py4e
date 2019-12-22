@@ -1,0 +1,6 @@
+You can use the "dir(c)" command to find the methods of a particular data type.
+              - where c is a variable of any data type.
+You can also use "dir([data-type])" command for the same.
+
+The "help(c.method)" command helps us to find the functionality of a particular method.
+              - where c is a variable of any data type.

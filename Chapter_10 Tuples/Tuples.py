@@ -1,6 +1,6 @@
 # Tuples are another kind of sequence that functions much like a list
 # Index starts with 0
-# Uses () instead of [] in a list
+# Uses () instead of [] as in a list
 # Tuples are immutable
 # Tuples are more efficient (in terms of memory use and performance)
 # The items() method in dictionaries returns a list of Tuples.

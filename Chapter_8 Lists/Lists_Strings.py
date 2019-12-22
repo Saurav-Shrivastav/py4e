@@ -26,7 +26,7 @@ print(len(thing))
 print(" ")
 
 #Finding the day on which an email was sent from the mbox file
-fhand = open('mbox.txt')
+fhand = open('mbox-short.txt')
 for line in fhand :
     line = line.rstrip()
     if not line.startswith('From ') :
@@ -37,7 +37,7 @@ for line in fhand :
 print(" ")
 
 #The Double Split Pattern
-fhand = open('mbox.txt')
+fhand = open('mbox-short.txt')
 for line in fhand :
     line = line.rstrip()
     if not line.startswith('From ') :

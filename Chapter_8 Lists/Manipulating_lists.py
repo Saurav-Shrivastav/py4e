@@ -11,7 +11,7 @@ print(d)
 #http://docs.python.org/tutorial/datastructures.html - all the list methods
 
 #Building a list from scratch
-stuff = list()       #creates an empty list bythe name of stuff
+stuff = list()       #creates an empty list by the name of stuff
 stuff.append('book')
 stuff.append(99)
 print(stuff)

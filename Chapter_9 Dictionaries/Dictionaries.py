@@ -17,3 +17,7 @@ jjj = { 'chuck' : 1 , 'fred' : 42 , 'jan' : 100}
 print(jjj)
 ooo = { } #empty dictionary
 print(ooo)
+
+d = {"name": "Saurav", "s":[2,4,"hi"]}
+d["s"][1]               # Gives output as '4'
+d["s"][2][1]            # Gives 'i' as the output
