@@ -1,0 +1,19 @@
+Module is a file which contains python functions , global variables etc. It is
+nothing but .py file which has python executable code / statement.
+So basically they are python scripts that you can import in python
+
+Libraries are a collection of modules.
+
+Packages( Third party libraries ) are libraries which are not pre-installed and need to be downloaded.
+
+The command used to install a package (diretly in command line, no need to
+start python) :
+( pip install <package_name> )
+
+
+Also some things about commenting and documenting your file :
+"""
+    --code written here is the documented code--
+"""
+
+#This line is commented
